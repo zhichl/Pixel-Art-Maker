@@ -1,6 +1,7 @@
 # Pixel Art Maker
 
-This is a simple pixel art maker.
+This is a simple pixel art maker.  
+To play with the demo: [Pixel Art Maker](https://zhichl.github.io/pixel-art-maker/).
 
 ## Instructions
 
